@@ -1,0 +1,190 @@
+.goods_header{
+  background: #5C6458;
+  width: 1282px;
+  height: 71px;
+  
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  
+ 
+  
+  
+
+}
+
+
+.goods_p{
+  width: 170px;
+  display: flex;
+  justify-content: right;
+
+
+}
+
+
+.first_line{
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1074px;
+  height: 406px;
+}
+
+
+.first_good{
+  list-style-type: none;
+  
+}
+
+
+
+.good_buton{
+  border-radius: 23px;
+  width: 176px;
+  height: 42px;
+  color: #FFFFFF;
+  
+  background: #5C6458;
+
+
+}
+
+.second_good{
+  list-style-type: none;
+}
+
+.third_good{
+  list-style-type: none;
+}
+
+.second_line{
+
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1074px;
+  height: 406px;
+}
+
+.fourth_good{
+  list-style-type: none;
+}
+
+
+.fifth_good{
+  list-style-type: none;
+}
+
+
+
+.sixth_good{
+  list-style-type: none;
+}
+
+
+
+.seventh_good{
+  list-style-type: none;
+}
+
+
+
+
+.eighth_good{
+  list-style-type: none;
+}
+
+
+
+
+.nineth_good{
+  list-style-type: none;
+}
+
+
+
+
+.tenth_good{
+  list-style-type: none;
+}
+
+
+
+
+.eleventh_good{
+  list-style-type: none;
+}
+
+
+
+.twelvth_good{
+  list-style-type: none;
+}
+
+.thr_good{
+  list-style-type: none;
+}
+
+.frt_good{
+  list-style-type: none;
+}
+
+.fif_good{
+  list-style-type: none;
+}
+
+.six_good{
+  list-style-type: none;
+}
+
+.svn_good{
+  list-style-type: none;
+}
+
+.eigh_good{
+  list-style-type: none;
+}
+
+
+
+.third_line{
+
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1074px;
+  height: 406px;
+}
+
+
+.fourth_line{
+
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1074px;
+  height: 406px;
+}
+
+
+.fifth_line{
+
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1074px;
+  height: 406px;
+
+  
+}
+
+
+.sixth_line{
+
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  width: 1074px;
+  height: 406px;
+}
